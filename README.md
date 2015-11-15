@@ -1,3 +1,1 @@
-# assessmentJquery
-# jQueryassessment
-# jQueryassessment
+Week 2 of our programming bootcamp. Getting a basis for where we are at with jQuery and understanding how to increment numbers while appending to the DOM. It was timed and I didn't get to the change color part.
